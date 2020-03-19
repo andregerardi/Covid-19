@@ -1,6 +1,6 @@
 # Covid-19
 
-A partir de um banco de dados mundial, os dados apresentam o número de casos confirmados, de mortes, como as novas mortes, atualizado diáriamente. O script não faz análises complexas, apenas tenta verificar se as políticas de isolamento social adotadas por alguns países reduzem a expansão da doença, quando comparadas com a China e a Itália, onde a contaminação assumiu características avassaladoras.
+A partir de um banco de dados mundial, com informações sobre o número de casos confirmados, de mortes, como as novas mortes, o modelo foi construído. O script não faz análises complexas, apenas tenta verificar se as políticas de isolamento social reduz a expansão da doença, quando se compara com a China e a Itália, onde a contaminação, até 19/03, foram maiores.
 
 As informações organizadas por semana permitem, portanto, verificar o efeito do isolamento e em decorrencia do isolamento imposto em algumas regiões do planeta.
 
