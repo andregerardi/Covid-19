@@ -4,7 +4,7 @@ A partir de um banco de dados mundial, os dados apresentam o número de casos co
 
 As informações organizadas por semana permitem, portanto, verificar o efeito do isolamento e em decorrencia do isolamento imposto em algumas regiões do planeta.
 
-A minha intenção foi criar um modelo de gráfico para comparação dos casos entre países, que usei para verificar o efeito no Brasil, França, Italia, China e Estados Unidos.
+A minha intenção foi criar um modelo de gráfico para comparação dos casos entre países, que usei para verificar o efeito no Brasil, França, Itália, China e Estados Unidos. Em 19/03, a Espanha registrou o aumento no número de casos.
 
 Percebi que o número de mortes na Itália apresentou taxa exponencial do número de mortes, quando comparamos com a China.
 
