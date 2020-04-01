@@ -8,3 +8,5 @@ A minha intenção foi criar um modelo de gráfico para comparação dos casos e
 
 Percebi que o número de mortes na Itália apresentou taxa exponencial do número de mortes, quando comparamos com a China.
 
+Fontes de dados: <https://ourworldindata.org/coronavirus-source-data>
+
